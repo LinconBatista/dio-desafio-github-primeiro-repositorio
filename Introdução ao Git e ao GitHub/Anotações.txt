@@ -1,0 +1,1 @@
+Arquivo criado para introduzir os conceitos básicos do Git e GitHub;
